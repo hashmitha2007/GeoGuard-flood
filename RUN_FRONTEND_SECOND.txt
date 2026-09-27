@@ -1,0 +1,10 @@
+FRONTEND — SECOND TERMINAL
+==========================
+
+cd frontend
+npm install
+npm run dev
+
+Open http://localhost:5173
+
+Keep the backend terminal running at the same time.
